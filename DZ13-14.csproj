@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DZ13-14\Student.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="DZ13-14\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
